@@ -11,10 +11,10 @@ while(num>0){
     num/=10;
 }
 if(rev == og){
-    System.out.println("Yes number is palindrome");
+    System.out.println("Yes number is palindrome!");
 }
 else{
-    System.out.println("No number is not palindrome");
+    System.out.println("No number is not palindrome!");
 }
 sc.close();
     }   
