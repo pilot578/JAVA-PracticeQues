@@ -9,7 +9,7 @@ num /= 10;
 count++;
 
 }
-System.out.println("No. of digits in given number is : " + count);
+System.out.println("Number of digits in given number is : " + count);
         sc.close();
     }
 }
