@@ -4,9 +4,9 @@ public static void main(String[] args){
     StringBuffer sb = new StringBuffer(str);
 sb.reverse();
 if(str.equals(sb.toString())){
-    System.out.println("String is Palindrome!");
+    System.out.println("The String is Palindrome!");
 }else{
-    System.out.println("String is not Palindrome");
+    System.out.println("The String is not Palindrome");
 }
 }
 }
