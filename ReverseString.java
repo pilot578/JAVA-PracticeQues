@@ -7,7 +7,7 @@ String reverse = "";
 for(int i=s.length()-1;i>=0;i--){//length-1 = last index, i till comes to 0, backwrd 
 reverse += s.charAt(i);
 }
-System.out.println("Reversed string is: " + reverse);
+System.out.println("The Reversed String is: " + reverse);
         sc.close();
     }
 }
