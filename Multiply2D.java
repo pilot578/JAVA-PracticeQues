@@ -24,7 +24,7 @@ public class Multiply2D {
                 }
             }
         }
-System.out.println("Result: ");
+System.out.println("Result is: ");
 for(int i=0;i<arr3.length;i++){
     for(int j=0;j<arr3[i].length;j++){
         System.out.print(arr3[i][j]+ " ");
