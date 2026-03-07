@@ -25,7 +25,7 @@ class Employee{
     }
     void withdraw(double x){
         if(x>bal){
-            System.out.println("Insufficient");
+            System.out.println("Insufficient balance!");
         }
         else{
             bal -= x;
