@@ -15,8 +15,8 @@ public class CountVowelsConsonants {
                 }
             }
         }
-        System.out.println("Number of vowels : " + vowels);
-        System.out.println("Number of consonants : " + consonants);
+        System.out.println("Number of vowels are : " + vowels);
+        System.out.println("Number of consonants are: " + consonants);
         sc.close();
     }
 }
