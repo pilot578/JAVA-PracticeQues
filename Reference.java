@@ -1,6 +1,6 @@
 class Animal {
     void eat(){
-        System.out.println("This animals eats.");
+        System.out.println("This animal eats!");
     }
 }
 class Reference{
