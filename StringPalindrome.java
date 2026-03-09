@@ -9,10 +9,10 @@ public class StringPalindrome {
     reverse += s.charAt(i);
    }
    if(reverse == original){
-    System.out.println("String is palindrome!.");
+    System.out.println("String is a palindrome!.");
    }
    else{
-    System.out.println("String is not palindrome!");
+    System.out.println("String is not a palindrome!");
    }
         sc.close();
     }
