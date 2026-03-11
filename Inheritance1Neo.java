@@ -28,7 +28,7 @@ public class Inheritance1Neo{
 
         double total = p.calculateMonthlyCost();
 
-        System.out.printf("Rs. %.2f", total);
+        System.out.printf("Total Rs. %.2f", total);
         scanner.close();
     }
 }
