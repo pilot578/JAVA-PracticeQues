@@ -1,12 +1,12 @@
 class A {
     void display() {
-        System.out.println("Display A");
+        System.out.println("Scene is beautiful");
     }
 }
 
 class B extends A {
     void display() {
-        System.out.println("Display B");
+        System.out.println("Scene not beautiful");
     }
 }
 
