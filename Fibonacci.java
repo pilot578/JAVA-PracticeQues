@@ -6,7 +6,7 @@ public class Fibonacci {
         int terms = sc.nextInt();
         int a = 0;
         int b = 1;
-        System.out.println("Fibonacci Series: ");
+        System.out.println("Fibonacci Series is: ");
         for(int i=0;i<terms;i++){
             System.out.print(a + " ");
            int fibo =a+b;
