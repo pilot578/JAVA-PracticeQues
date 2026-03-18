@@ -8,7 +8,7 @@ if(chh == 'a' || chh == 'e' || chh == 'i' || chh == 'o' || chh=='u'){
 count++;
 }
         }
-        System.out.println("Vowels: " + count); 
+        System.out.println("Total Vowels are: " + count); 
     }
     
 }
