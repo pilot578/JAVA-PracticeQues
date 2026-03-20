@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 public class Dice {
-
+    
     public static void main(String[] args){
 Scanner sc = new Scanner(System.in);
 Random ra = new Random();
@@ -18,7 +18,7 @@ if(numOfDice > 0){
     System.out.println("Total: " + total);
     }
     else{
-        System.out.println("no. of dice must be greater than 0.");
+        System.out.println("No. of dice must be greater than 0.");
     }
     sc.close();
 }
