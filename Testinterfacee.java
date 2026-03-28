@@ -16,7 +16,8 @@ return a*b;
     class Testinterfacee{
     public static void main(String[] args) {
   Rect obj = new Rect();
-  System.out.println(obj.compute(2,8));      
+  Area  = (a,b)-> (a*b);
+  System.out.println(obj.compute(8,5));      
     
 }
 }
