@@ -7,20 +7,20 @@ public class Swap {
          a = a+b;
          b = a-b;
          a = a-b;
-         System.out.println("a = " + a);
-         System.out.println("b = " + b); 
+         System.out.println("Enter a = " + a);
+         System.out.println("Enter b = " + b); 
 //Method 2
          a = a * b;
          b = a / b;
          a = a / b;
-         System.out.println("a = " + a);
-         System.out.println("b = " + b); 
+         System.out.println("Enter a = " + a);
+         System.out.println("Enter b = " + b); 
 //Method 3
         a = a ^ b;
         b = a ^ b;
         a = a ^ b;
-         System.out.println("a = " + a);
-        System.out.println("b = " + b); 
+         System.out.println("Enter a = " + a);
+        System.out.println("Enter b = " + b); 
 sc.close();
     }
 }
