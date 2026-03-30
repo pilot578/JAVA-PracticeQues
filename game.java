@@ -9,7 +9,7 @@ class Warrior extends GameCharacter {
     }
 
     void defend(int value) {
-        System.out.println("Defend: Raises shield, defence boosted by " + value + "!");
+        System.out.println("Defend: Raises shield, defence boosted by " + value + ".");
     }
 }
 
@@ -19,7 +19,7 @@ class Wizard extends GameCharacter {
     }
 
     void defend(int value) {
-        System.out.println("Defend: Creates magical barrier, defence boosted by " + value + "!");
+        System.out.println("Defend: Creates magical barrier, defence boosted by " + value + ".");
     }
 }
 class game {
